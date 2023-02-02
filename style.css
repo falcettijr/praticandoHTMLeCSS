@@ -7,9 +7,14 @@
 
 body{
   background-color: var(--corDeFundo);
+  color: var(--brancoPrincipal)
 }
 
 *{
   margin:0;
   padding:0;  
+}
+
+.principal {
+  background-image: url("/Alura/praticandoHTMLeCSS/img/Background.png");
 }
